@@ -28,6 +28,10 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/93734334/146845398-efc71191-2071-46a8-a8aa-fe731453691a.png)
 
+* Eliminando el voltaje de 20V
+
+![image](https://user-images.githubusercontent.com/93734334/146845718-eb2727fe-db12-4344-9780-4bdf342292a2.png)
+
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 5. VIDEO
