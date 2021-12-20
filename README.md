@@ -26,6 +26,8 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/93734334/146844977-792f8a6e-f8b7-4c45-8543-570229ea7c16.png)
 
+![image](https://user-images.githubusercontent.com/93734334/146845398-efc71191-2071-46a8-a8aa-fe731453691a.png)
+
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 5. VIDEO
