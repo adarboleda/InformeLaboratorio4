@@ -48,6 +48,32 @@ Objetivos Específicos:
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+4.5.1. Arme el circuito que se muestra en la figura 4.1.
+
+![image](https://user-images.githubusercontent.com/93734334/146848156-3f020ec2-b28c-428f-bede-4244db0cac13.png)
+
+4.5.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
+el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+![image](https://user-images.githubusercontent.com/93734334/146848202-1366f706-66d1-44d5-b307-c6db20938d3c.png)
+
+4.5.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+![image](https://user-images.githubusercontent.com/93734334/146848281-d79274a5-ec33-441e-9c0e-e40e2e43f81c.png)
+
+4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+![image](https://user-images.githubusercontent.com/93734334/146848390-276504b9-3bb6-4f85-8767-37af6b4ff3db.png)
+
+Tabla 4.1. Medición de voltaje aplicando superposición.
+
+Tabla 4.2. Medición de corriente aplicando superposición.
+
+4.5.5. Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
+conclusiones.
+
 5. VIDEO
 
 6. CONCLUSIONES
