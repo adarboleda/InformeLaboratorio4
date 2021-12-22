@@ -73,7 +73,11 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 Tabla 4.1. Medición de voltaje aplicando superposición.
 
+![image](https://user-images.githubusercontent.com/93734334/147024471-255ed490-12a3-459c-a5b7-93f36150b492.png)
+
 Tabla 4.2. Medición de corriente aplicando superposición.
+
+![image](https://user-images.githubusercontent.com/93734334/147024500-b13b0e7e-a9db-4861-be03-1cb8cd26b899.png)
 
 4.5.5. Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
 conclusiones.
