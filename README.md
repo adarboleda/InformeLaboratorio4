@@ -84,6 +84,8 @@ conclusiones.
 
 ![image](https://user-images.githubusercontent.com/93734334/147024254-bdfa3d6c-3754-429b-92c4-1491e7a749d9.png)
 
+* Como se observa, en los valores tanto de la tabla 4.1, como los de la tabla 4.2, los valores calculados y los valores medidos en el simulador no difieren, es decir son iguales y por lo tanto no existe ningun error.
+
 5. VIDEO
 
 6. CONCLUSIONES
