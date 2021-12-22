@@ -46,6 +46,10 @@ Objetivos Específicos:
 
 ![image](https://user-images.githubusercontent.com/93734334/146846725-56949a90-cb3c-4023-ab62-dd9ff5b22bb4.png)
 
+* Teorema de superposición
+
+![image](https://user-images.githubusercontent.com/93734334/147024230-e0595331-0ba2-4c2d-9658-db739a8f5b39.png)
+
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 4.5.1. Arme el circuito que se muestra en la figura 4.1.
@@ -73,6 +77,8 @@ Tabla 4.2. Medición de corriente aplicando superposición.
 
 4.5.5. Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
 conclusiones.
+
+![image](https://user-images.githubusercontent.com/93734334/147024254-bdfa3d6c-3754-429b-92c4-1491e7a749d9.png)
 
 5. VIDEO
 
