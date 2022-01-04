@@ -4,9 +4,17 @@
 
 Objetivo General:
 
+*
+
 Objetivos Específicos:
 
+*
+*
+
 2. MARCO TEÓRICO 
+
+![image](https://user-images.githubusercontent.com/93733175/147995304-b380ab03-0509-4b70-9f0f-5088fed47640.png)
+
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
