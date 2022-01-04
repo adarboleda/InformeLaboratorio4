@@ -100,6 +100,9 @@ conclusiones.
 https://youtu.be/PdiQqHe0nWo
 
 6. CONCLUSIONES
+*	El teorema de superposición se trata de anular una fuente de energía según su tipo, si es una fuente de voltaje esta se suspende, pero se mantiene la conexión donde se encontraba a diferencia de la fuente de corriente que al igualar a cero se genera un circuito abierto que genera la eliminación de la conexión que poseía esa fuente. El propósito de realizar la superposición es hallar el valor de la corriente con una sola fuente, es decir por separado y realizar la suma algebraica de aquellas para obtener la corriente del circuito con las dos fuentes.
+*	Los resultados obtenidos de manera analítica utilizando la superposición son iguales a los valores obtenidos en el simulador Thinkercard, es decir el teorema de superposición es un método factible para encontrar la corriente, Además se demostró que al calcular el voltaje en A con la corriente de una sola fuente y sumarla con el resultado que se realizó con la corriente de la otra fuente daba el valor del voltaje en A obtenido en Thinkercard.
+
 
 7. BIBLIOGRAFÍA
 
