@@ -4,7 +4,7 @@
 
 Objetivo General:
 
-*
+* Comprobar el Tema de Superposición mediante el análisis analítico del circuito y su respectiva simulación. 
 
 Objetivos Específicos:
 
@@ -13,7 +13,7 @@ Objetivos Específicos:
 
 2. MARCO TEÓRICO 
 
-![image](https://user-images.githubusercontent.com/93733175/147995304-b380ab03-0509-4b70-9f0f-5088fed47640.png)
+![image](https://user-images.githubusercontent.com/93733175/147995696-bbdac22d-9c65-4a76-8c31-9b0d0b1e265a.png)
 
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
