@@ -8,9 +8,9 @@ Objetivo General:
 
 Objetivos Específicos:
 
-*Explicar en qué consiste el Teorema de Superposición.
+* Explicar en qué consiste el Teorema de Superposición.
 
-*Comprobar los resultados obtenidos teóricamente de voltaje VA y corriente IX. 
+* Comprobar los resultados obtenidos teóricamente de voltaje VA y corriente IX. 
 
 2. MARCO TEÓRICO 
 
