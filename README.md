@@ -4,12 +4,13 @@
 
 Objetivo General:
 
-* Comprobar el Tema de Superposición mediante el análisis analítico del circuito y su respectiva simulación. 
+* Comprobar el Teorema de Superposición mediante el análisis analítico del circuito y su respectiva simulación. 
 
 Objetivos Específicos:
 
-*
-*
+*Explicar en qué consiste el Teorema de Superposición.
+
+*Comprobar los resultados obtenidos teóricamente de voltaje VA y corriente IX. 
 
 2. MARCO TEÓRICO 
 
